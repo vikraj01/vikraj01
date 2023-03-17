@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Healthy Food Delivery Management Software<br>🤝 I'm looking for help with IOT<br>🌱 I'm currently learning about google cloud platform<br>💬 Ask me about NodeJS, ReactJS
+🌱 I'm currently learning about google cloud platform<br>💬 Ask me about NodeJS, ReactJS
 
 
 ## 🌐 Socials:
