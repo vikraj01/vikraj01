@@ -20,6 +20,6 @@
 
 Here is a brief description of my highlighted project. 
 
-![Project Image](path/to/image)
+![Project Image](https://res.cloudinary.com/dauieliip/image/upload/v1679130976/portfolio/Reddlite_nlmweg.png)
 
-You can check out the project on [GitHub](https://vikraj01.github.io/reddlite/).
+You can check out the project on [Reddlite](https://vikraj01.github.io/reddlite/).
