@@ -16,3 +16,10 @@
 [![](https://visitcount.itsvg.in/api?id=vikraj01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Highlighted Project
+
+Here is a brief description of my highlighted project. 
+
+![Project Image](path/to/image)
+
+You can check out the project on [GitHub](https://vikraj01.github.io/reddlite/).
