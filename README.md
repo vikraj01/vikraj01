@@ -15,11 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vikraj01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# Highlighted Project
-
-Here is a brief description of my highlighted project. 
-
-![Project Image](https://res.cloudinary.com/dauieliip/image/upload/v1679130976/portfolio/Reddlite_nlmweg.png)
-
-You can check out the project on [Reddlite](https://vikraj01.github.io/reddlite/).
